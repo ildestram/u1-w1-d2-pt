@@ -82,6 +82,7 @@ figcaption {
     padding-left: 12px;
     /* text-transform: uppercase; */
     color: rgb(156, 6, 6);
+    border-left: 2px solid rgb(190, 190, 19);
 }
 
 .how {
@@ -121,6 +122,10 @@ footer {
 
 ul li {
     line-height: 30px;
+}
+
+iframe {
+    border-radius: 10px;
 }
 
 
